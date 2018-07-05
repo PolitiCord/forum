@@ -1,0 +1,4 @@
+c11d5b0cfc97657737623fba9b8c1b12e51b8968		branch 'master' of https://github.com/discourse/discourse_docker
+48be155a90637e024f7eb8ba00f3c52593ae2fa2	not-for-merge	branch 'automatic-build' of https://github.com/discourse/discourse_docker
+46fac7fc1fa35c14ace178ae50a47fbee18eac0e	not-for-merge	branch 'pg_ctl' of https://github.com/discourse/discourse_docker
+4f85f7c32b94240ff448ed439da35760f33e8272	not-for-merge	branch 'systemd-swap-config' of https://github.com/discourse/discourse_docker
